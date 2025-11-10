@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "r2-stream-upload-exampled",
+	"name": "r2-stream-upload-example",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-11-07",
 	"assets": {
